@@ -6,10 +6,15 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		A90AF7232ABA0E0D007E5D92 /* fortigate-bulk-add-address-group-script.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "fortigate-bulk-add-address-group-script.py"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		A90AF7182ABA0D6A007E5D92 = {
 			isa = PBXGroup;
 			children = (
+				A90AF7232ABA0E0D007E5D92 /* fortigate-bulk-add-address-group-script.py */,
 			);
 			sourceTree = "<group>";
 		};
